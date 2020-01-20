@@ -56,3 +56,5 @@ Version 1.00 Released 1/20/2020
 
 ### The official website domain for TimeShade is: [http://TimeShade.tk](http://TimeShade.tk)
 
+### TimeShade is developed by ShadySoft, LLC: [http://ShadySoft.tk](http://ShadySoft.tk)
+
